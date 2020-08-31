@@ -1,0 +1,144 @@
+body{
+    background-color: grey;
+}
+
+.log_res{
+    position: relative;
+    left: 470px;
+    top:150px;
+	width:333px;
+	height: 352px;
+	padding: 25px 25px 0px 25px;
+    color: black;
+    background-color: whitesmoke;
+    font: 12px Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 8px;
+}  
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 15px;
+    border: none;
+    cursor: pointer;
+    position:relative;
+    left: 110px;
+    top: 35px;
+    border-radius: 10px;
+}
+
+
+.btn_cad{
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        position:relative;
+        left: 110px;
+        top: 1px;
+        border-radius: 10px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.reg{
+    position: relative;
+    text-align: center;
+}
+
+.erro{
+    position: relative;
+    left: 535px;
+    top:150px;
+    width: 200px;
+	padding: 25px 25px 0px 25px;
+    color: black;
+    background-color: rgb(255, 67, 67);
+    font: 12px Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.msg_erro{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    font-size: 15px;
+
+}
+
+.cad{
+    position: relative;
+    left: 535px;
+    top:150px;
+    width: 200px;
+	padding: 25px 25px 0px 25px;
+    color: black;
+    background-color: rgb(255, 67, 67);
+    font: 12px Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+.msg_cad{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    font-size: 15px;
+}
+
+.regis{
+    position: relative;
+    left: 535px;
+    top:150px;
+    width: 200px;
+	padding: 25px 25px 0px 25px;
+    color: black;
+    background-color: rgb(255, 67, 67);
+    font: 12px Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.msg_regis{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    font-size: 15px;
+
+}
+.cads{
+    position: relative;
+    left: 535px;
+    top:150px;
+    width: 200px;
+	padding: 25px 25px 0px 25px;
+    color: black;
+    background-color: rgb(47, 216, 89);
+    font: 12px Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.msg_cads{
+    color: white;
+    position: relative;
+    bottom: 20px;
+    font-size: 15px;
+
+}
+
