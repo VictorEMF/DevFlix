@@ -24,9 +24,8 @@
         </div>
     </main>
     <footer class="rodape">
-        HUMOR E PIADAS © <?= date('Y'); ?>
+        COD3R E ALUNOS © <?= date('Y'); ?>
     </footer>
-
 </body>
 </html>
 

@@ -15,7 +15,7 @@ body{
     border-radius: 20px;
 }
 
-input[type=text], input[type=password] {
+input[type=text], input[type=password], input[type=email] {
     width: 100%;
     padding: 10px 20px;
     margin: 8px 0;
@@ -139,6 +139,5 @@ button:hover {
     position: relative;
     bottom: 20px;
     font-size: 15px;
-
 }
 

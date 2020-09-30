@@ -34,7 +34,7 @@ unset($_SESSION['usuario_existe']);
         <h2 class="reg">REGISTRO</h2>
         <form action="cadastrar.php" method="post">
         <input type="text" name="nome" placeholder='Nome'><br>
-        <input type="text" name="email" placeholder='Email'> <br>
+        <input type="email" name="email" placeholder='Email'> <br>
         <input type="password" name="senha" placeholder='Senha(Até 8 Digitos)'> <br>
         <p>Criou a conta ? <a href="index.php">LOGAR</a></p>
         <button type="submit" class='btn_cad'>REGISTRAR</button>
